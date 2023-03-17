@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">cryptoWallet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topUpYourWallet">Пополнить кошелек</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="item">Item</string>
+    <string name="profile">profile</string>
+    <string name="you_don_t_have_an_operation_performed">You don\'t have an operation performed</string>
+    <string name="_4_digit_code">4-digit code</string>
+    <string name="Tcontinue">Continue</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
